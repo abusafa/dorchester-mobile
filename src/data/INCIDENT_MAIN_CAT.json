@@ -1,0 +1,232 @@
+[
+  {
+    "INCIDENT_MAIN_ID": 1,
+    "INCIDENT_MAIN_NAME": "قضايا السيارات المسروقة والمعمم عليها المضبوطة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 2,
+    "INCIDENT_MAIN_NAME": "قضايا السيارات المطلوبة والمعمم عليها المضبوطة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 3,
+    "INCIDENT_MAIN_NAME": "قضايا السيارات المشتبه بها والدراجات النارية والهوائية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 4,
+    "INCIDENT_MAIN_NAME": "قضايا الشكاوي والمضاربات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_MAIN_NAME": "السرقات المتنوعة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 6,
+    "INCIDENT_MAIN_NAME": "قضايا دخول المنازل",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 7,
+    "INCIDENT_MAIN_NAME": "قضايا الوفيات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 8,
+    "INCIDENT_MAIN_NAME": "قضايا الاشخاص المعمم عنهم",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 9,
+    "INCIDENT_MAIN_NAME": "قضايا السرقة من سيارات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_MAIN_NAME": "قضايا التعدي علي الغير والتهديد والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 11,
+    "INCIDENT_MAIN_NAME": "قضايا الانتحار ومحاولة الانتحار",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 12,
+    "INCIDENT_MAIN_NAME": "قضايا القتل",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 13,
+    "INCIDENT_MAIN_NAME": "قضايا جرس الانذار",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 14,
+    "INCIDENT_MAIN_NAME": "قضايا الحريق والغرق والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 15,
+    "INCIDENT_MAIN_NAME": "قضايا المعاكسات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 16,
+    "INCIDENT_MAIN_NAME": "قضايا اللقطاء",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 17,
+    "INCIDENT_MAIN_NAME": "قضايا الاسلحة النارية والبيضاء",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 18,
+    "INCIDENT_MAIN_NAME": "قضايا ممارسة البيع في وقت الصلاة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_MAIN_NAME": "قضايا المخالفة للتعليمات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 20,
+    "INCIDENT_MAIN_NAME": "قضايا عدم اثبات ملكية السيارات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 21,
+    "INCIDENT_MAIN_NAME": "قضايا الباعة المتجولين",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 22,
+    "INCIDENT_MAIN_NAME": "قضايا التسول",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 23,
+    "INCIDENT_MAIN_NAME": "قضايا العمالة السائبة والهاربة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 24,
+    "INCIDENT_MAIN_NAME": "قضايا السحر",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 25,
+    "INCIDENT_MAIN_NAME": "قضايا العثور علي مفقودات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 26,
+    "INCIDENT_MAIN_NAME": "قضايا الاشخاص القادمون عن طريق التهريب",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 27,
+    "INCIDENT_MAIN_NAME": "قضايا الاشخاص التائهون",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 28,
+    "INCIDENT_MAIN_NAME": "قضايا التفحيط والتجمهر",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 29,
+    "INCIDENT_MAIN_NAME": "قضايا الالعاب النارية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 30,
+    "INCIDENT_MAIN_NAME": "قضايا سرقة السيارات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 31,
+    "INCIDENT_MAIN_NAME": "قضايا المخالفين للاداب العامة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 32,
+    "INCIDENT_MAIN_NAME": "قضايا المسكرات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 33,
+    "INCIDENT_MAIN_NAME": "قضايا المخدرات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 34,
+    "INCIDENT_MAIN_NAME": "قضايا جنائية هامة متفرقة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 35,
+    "INCIDENT_MAIN_NAME": "قضايا الاختلاء المحرم",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_MAIN_NAME": "القضايا الاخلاقية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 37,
+    "INCIDENT_MAIN_NAME": "القضايا العرضية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 38,
+    "INCIDENT_MAIN_NAME": "قضايا الخدمات العامة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_MAIN_NAME": "قضايا الاشتباه وحفظ النظام",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 40,
+    "INCIDENT_MAIN_NAME": "قضايا التزوير والتزييف",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 41,
+    "INCIDENT_MAIN_NAME": "القضايا المرورية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_MAIN_NAME": "مساندة القطاعات العامة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 43,
+    "INCIDENT_MAIN_NAME": "التبرع بالدم",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 44,
+    "INCIDENT_MAIN_NAME": "قضايا المتفجرات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 0,
+    "INCIDENT_MAIN_NAME": 0,
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_MAIN_ID": 45,
+    "INCIDENT_MAIN_NAME": "قضايا انتحال الشخصية",
+    "IMPORTANCE": 5
+  }
+]

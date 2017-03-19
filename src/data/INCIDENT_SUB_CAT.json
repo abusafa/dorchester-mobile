@@ -1,0 +1,1658 @@
+[
+  {
+    "INCIDENT_SUB_ID": 219,
+    "INCIDENT_MAIN_ID": 37,
+    "INCIDENT_SUB_NAME": "متخلفين عقليا",
+    "IMPORTANCE": 4
+  },
+  {
+    "INCIDENT_SUB_ID": 220,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة من منازل والبلاغات عنها",
+    "IMPORTANCE": 10
+  },
+  {
+    "INCIDENT_SUB_ID": 221,
+    "INCIDENT_MAIN_ID": 23,
+    "INCIDENT_SUB_NAME": "شخص يقوم بتهريب العمالة",
+    "IMPORTANCE": 1
+  },
+  {
+    "INCIDENT_SUB_ID": 223,
+    "INCIDENT_MAIN_ID": 3,
+    "INCIDENT_SUB_NAME": "سيارة حكومية بقيادة شخص أجنبي",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 224,
+    "INCIDENT_MAIN_ID": 3,
+    "INCIDENT_SUB_NAME": "سيارة رسمية حكومية بقيادة شخص مدني",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 236,
+    "INCIDENT_MAIN_ID": 17,
+    "INCIDENT_SUB_NAME": "ضبط ذخيرة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 237,
+    "INCIDENT_MAIN_ID": 17,
+    "INCIDENT_SUB_NAME": "اشهار سلاح",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 238,
+    "INCIDENT_MAIN_ID": 17,
+    "INCIDENT_SUB_NAME": "اطلاق نار في الهواء",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 239,
+    "INCIDENT_MAIN_ID": 34,
+    "INCIDENT_SUB_NAME": "اجنبي يزاول مهنة بيع الابل",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 243,
+    "INCIDENT_MAIN_ID": 34,
+    "INCIDENT_SUB_NAME": "بلاغ عن ملصقات إعلامية و تجارية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 245,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "مواد غذائية فاسدة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 248,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "تجمعات مخالفة للأنظمة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 249,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "تجمعات مختلطة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 1,
+    "INCIDENT_MAIN_ID": 1,
+    "INCIDENT_SUB_NAME": "سيارة مسروقة بدون قائدها تم ضبطها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 2,
+    "INCIDENT_MAIN_ID": 1,
+    "INCIDENT_SUB_NAME": "سيارة مسروقة بقائدها تم ضبطها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 3,
+    "INCIDENT_MAIN_ID": 1,
+    "INCIDENT_SUB_NAME": "سيارة مسروقة وعليها تعميم مؤقت تم ضبطها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 4,
+    "INCIDENT_MAIN_ID": 1,
+    "INCIDENT_SUB_NAME": "سيارة رسمية مسروقة تم ضبطها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 5,
+    "INCIDENT_MAIN_ID": 2,
+    "INCIDENT_SUB_NAME": "سيارة مستأجرة وعليها تعميم",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 6,
+    "INCIDENT_MAIN_ID": 2,
+    "INCIDENT_SUB_NAME": "سيارة مطلوبة بقائدها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 7,
+    "INCIDENT_MAIN_ID": 2,
+    "INCIDENT_SUB_NAME": "سيارة مطلوبة بدون قائدها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 8,
+    "INCIDENT_MAIN_ID": 3,
+    "INCIDENT_SUB_NAME": "سيارة مشتبه فيها واقفة لفترة طويلة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 9,
+    "INCIDENT_MAIN_ID": 3,
+    "INCIDENT_SUB_NAME": "سيارة نقل الاموال مشتبه فيها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 10,
+    "INCIDENT_MAIN_ID": 3,
+    "INCIDENT_SUB_NAME": "سيارة مشتبه فيها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 11,
+    "INCIDENT_MAIN_ID": 3,
+    "INCIDENT_SUB_NAME": "دراجات نارية مشتبه فيها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 12,
+    "INCIDENT_MAIN_ID": 3,
+    "INCIDENT_SUB_NAME": "دراجة هوائية مشتبه فيها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 13,
+    "INCIDENT_MAIN_ID": 4,
+    "INCIDENT_SUB_NAME": "شكاوي اخري",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 14,
+    "INCIDENT_MAIN_ID": 4,
+    "INCIDENT_SUB_NAME": "مدعي ومدعي عليه",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 15,
+    "INCIDENT_MAIN_ID": 4,
+    "INCIDENT_SUB_NAME": "شكاوي عائلية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 16,
+    "INCIDENT_MAIN_ID": 4,
+    "INCIDENT_SUB_NAME": "شكاوي حقوقية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 17,
+    "INCIDENT_MAIN_ID": 4,
+    "INCIDENT_SUB_NAME": "سوء تفاهم",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 18,
+    "INCIDENT_MAIN_ID": 4,
+    "INCIDENT_SUB_NAME": "شكاوي عمالية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 19,
+    "INCIDENT_MAIN_ID": 4,
+    "INCIDENT_SUB_NAME": "مضاربات بها اصابات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 20,
+    "INCIDENT_MAIN_ID": 4,
+    "INCIDENT_SUB_NAME": "مضاربات بدون اصابات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 21,
+    "INCIDENT_MAIN_ID": 4,
+    "INCIDENT_SUB_NAME": "مضاربة جماعية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 22,
+    "INCIDENT_MAIN_ID": 4,
+    "INCIDENT_SUB_NAME": "شخص مصاب وتقريره جاهز",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 23,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "تمرير المكالمات الهاتفية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 24,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة من استراحة والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 25,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "تكسير زجاج المحلات التجارية والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 26,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة من مكاتب ومستودعات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 27,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة هواتف نقالة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 28,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سلب واحتيال",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 29,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة من مدارس تعليمية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 30,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة من شخص او نشل",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 31,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "لوحات غير عائدة للسيارة او مسروقة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 32,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سطو بالقوة او مسلح",
+    "IMPORTANCE": 10
+  },
+  {
+    "INCIDENT_SUB_ID": 33,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة من عمارة تحت الانشاء",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 34,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة كيابل والنحاس والحديد والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 35,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "اختلاس",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 36,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقات متنوعة مضبوطة والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 37,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة من محلات تجارية والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 38,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة او سلب شنط نسائية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 39,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "محاولة السرقة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 40,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سيارة تحمل مسروقات اثاث وسكراب",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 41,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة من شقق والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 42,
+    "INCIDENT_MAIN_ID": 6,
+    "INCIDENT_SUB_NAME": "دخول منازل بطريقة غير شرعية لغرض سئ",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 43,
+    "INCIDENT_MAIN_ID": 6,
+    "INCIDENT_SUB_NAME": "دخول منازل بغرض السرقة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 44,
+    "INCIDENT_MAIN_ID": 7,
+    "INCIDENT_SUB_NAME": "وفيات طبيعية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 45,
+    "INCIDENT_MAIN_ID": 7,
+    "INCIDENT_SUB_NAME": "وفيات غير طبيعية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 46,
+    "INCIDENT_MAIN_ID": 8,
+    "INCIDENT_SUB_NAME": "شخص مطلوب وعليه تعميم",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 47,
+    "INCIDENT_MAIN_ID": 8,
+    "INCIDENT_SUB_NAME": "شخص عليه تعميم من الخطرين",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 48,
+    "INCIDENT_MAIN_ID": 8,
+    "INCIDENT_SUB_NAME": "ضبط شخص ارهابي",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 49,
+    "INCIDENT_MAIN_ID": 8,
+    "INCIDENT_SUB_NAME": "ضبط سجين هارب",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 50,
+    "INCIDENT_MAIN_ID": 9,
+    "INCIDENT_SUB_NAME": "سرقة من سيارة واقفة عند منزل او محل تجاري",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 51,
+    "INCIDENT_MAIN_ID": 9,
+    "INCIDENT_SUB_NAME": "سرقة من سيارة اثناء الامتحانات والدراسة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 52,
+    "INCIDENT_MAIN_ID": 9,
+    "INCIDENT_SUB_NAME": "سرقة من سيارة اثناء الصلاة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 53,
+    "INCIDENT_MAIN_ID": 9,
+    "INCIDENT_SUB_NAME": "سرقة من سيارة متعطلة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 54,
+    "INCIDENT_MAIN_ID": 9,
+    "INCIDENT_SUB_NAME": "تكسير زجاج السيارات والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 55,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "التعدي علي مواكب",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 56,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "تهديد بالاختطاف",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 57,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "تعدي وتهديد علي الوالدين والاقارب والابناء",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 58,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "التعدي بالضرب علي رجال الامن",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 59,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "التعدي بسلاح ناري علي رجال الامن",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 60,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "التعدي بسلاح ابيض علي رجال الامن",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 61,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "التعدي بسلاح ناري علي الاخرين",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 62,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "التعدي بسلاح ابيض علي الاخرين",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 63,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "عدم التجاوب والتلفظ علي رجال الامن",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 64,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "التعدي علي مركبة الدورية بالصدم",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 65,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "تهجم علي شخص",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 66,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "التعدي علي الممتلكات الخاصة بالفرد",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 67,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "مقاومة رجال الامن",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 68,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "التعدي علي الممتلكات الخاصة بالدولة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 69,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "تهديد بالقتل",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 70,
+    "INCIDENT_MAIN_ID": 11,
+    "INCIDENT_SUB_NAME": "انتحار",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 71,
+    "INCIDENT_MAIN_ID": 11,
+    "INCIDENT_SUB_NAME": "محاولة انتحار",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 72,
+    "INCIDENT_MAIN_ID": 12,
+    "INCIDENT_SUB_NAME": "قتل",
+    "IMPORTANCE": 10
+  },
+  {
+    "INCIDENT_SUB_ID": 73,
+    "INCIDENT_MAIN_ID": 12,
+    "INCIDENT_SUB_NAME": "اشتباه قتل",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 74,
+    "INCIDENT_MAIN_ID": 13,
+    "INCIDENT_SUB_NAME": "جرس انذار في محلات تجارية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 75,
+    "INCIDENT_MAIN_ID": 13,
+    "INCIDENT_SUB_NAME": "جرس انذار في بنك او صراف آلي",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 76,
+    "INCIDENT_MAIN_ID": 14,
+    "INCIDENT_SUB_NAME": "حوادث حريق",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 77,
+    "INCIDENT_MAIN_ID": 14,
+    "INCIDENT_SUB_NAME": "حوادث غرق",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 78,
+    "INCIDENT_MAIN_ID": 14,
+    "INCIDENT_SUB_NAME": "حوادث السيول والامطار والرياح والاعاصير",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 79,
+    "INCIDENT_MAIN_ID": 15,
+    "INCIDENT_SUB_NAME": "معاكسات عند مدارس البنات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 80,
+    "INCIDENT_MAIN_ID": 15,
+    "INCIDENT_SUB_NAME": "معاكسات في المرافق العامة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 81,
+    "INCIDENT_MAIN_ID": 15,
+    "INCIDENT_SUB_NAME": "مضايقة العوائل",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 82,
+    "INCIDENT_MAIN_ID": 16,
+    "INCIDENT_SUB_NAME": "لقطاء",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 83,
+    "INCIDENT_MAIN_ID": 17,
+    "INCIDENT_SUB_NAME": "سماع اطلاق نار",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 84,
+    "INCIDENT_MAIN_ID": 17,
+    "INCIDENT_SUB_NAME": "ضبط سلاح ناري",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 85,
+    "INCIDENT_MAIN_ID": 18,
+    "INCIDENT_SUB_NAME": "ممارسة البيع في وقت الصلاة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 86,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "محل مخالف للتعليمات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 87,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "محلات انترنت مخالفة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 88,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "شخص يعمل في محل مخالف للتعليمات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 89,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "محلات تبيع اطارات مستعملة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 90,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "ضبط محلات التشاليح المخالفة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 91,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "وافدون يعملون في مكاتب العقار",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 92,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "وافدون يعملون في محلات قص المفاتيح",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 93,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "محل لم يحصن",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 94,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "صراف مفتوح",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 95,
+    "INCIDENT_MAIN_ID": 20,
+    "INCIDENT_SUB_NAME": "عدم اثبات ملكية السيارات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 96,
+    "INCIDENT_MAIN_ID": 21,
+    "INCIDENT_SUB_NAME": "بائع متجول عند الاشارة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 97,
+    "INCIDENT_MAIN_ID": 21,
+    "INCIDENT_SUB_NAME": "بائع متجول عند المسجد",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 98,
+    "INCIDENT_MAIN_ID": 21,
+    "INCIDENT_SUB_NAME": "بائع متجول عند الشوارع العامة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 99,
+    "INCIDENT_MAIN_ID": 22,
+    "INCIDENT_SUB_NAME": "متسولين داخل الاحياء",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 100,
+    "INCIDENT_MAIN_ID": 22,
+    "INCIDENT_SUB_NAME": "متسولين في المرافق العامة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 101,
+    "INCIDENT_MAIN_ID": 22,
+    "INCIDENT_SUB_NAME": "متسولين عند الاشارة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 102,
+    "INCIDENT_MAIN_ID": 22,
+    "INCIDENT_SUB_NAME": "متسولين داخل وخارج المسجد",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 103,
+    "INCIDENT_MAIN_ID": 23,
+    "INCIDENT_SUB_NAME": "غاسلوا سيارات داخل الاحياء",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 104,
+    "INCIDENT_MAIN_ID": 23,
+    "INCIDENT_SUB_NAME": "غاسلوا سيارات في المرافق العامة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 105,
+    "INCIDENT_MAIN_ID": 23,
+    "INCIDENT_SUB_NAME": "هروب الخادمات والمكفولين",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 106,
+    "INCIDENT_MAIN_ID": 24,
+    "INCIDENT_SUB_NAME": "شعوذة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 107,
+    "INCIDENT_MAIN_ID": 24,
+    "INCIDENT_SUB_NAME": "طلاسم",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 108,
+    "INCIDENT_MAIN_ID": 24,
+    "INCIDENT_SUB_NAME": "سحر",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 109,
+    "INCIDENT_MAIN_ID": 25,
+    "INCIDENT_SUB_NAME": "العثور علي مفقودات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 110,
+    "INCIDENT_MAIN_ID": 26,
+    "INCIDENT_SUB_NAME": "شخص قادم عن طريق التهريب والتسلل",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 111,
+    "INCIDENT_MAIN_ID": 26,
+    "INCIDENT_SUB_NAME": "متخلف قادم عن طريق العمرة أو الحج",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 112,
+    "INCIDENT_MAIN_ID": 27,
+    "INCIDENT_SUB_NAME": "شخص تائه",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 113,
+    "INCIDENT_MAIN_ID": 27,
+    "INCIDENT_SUB_NAME": "بلاغ عن تغيب شخص",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 114,
+    "INCIDENT_MAIN_ID": 27,
+    "INCIDENT_SUB_NAME": "توصيل طفل تائه الي أسرته",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 115,
+    "INCIDENT_MAIN_ID": 28,
+    "INCIDENT_SUB_NAME": "مفحطون",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 116,
+    "INCIDENT_MAIN_ID": 28,
+    "INCIDENT_SUB_NAME": "متجمهرون ومشجعون في مواقع التفحيط",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 117,
+    "INCIDENT_MAIN_ID": 28,
+    "INCIDENT_SUB_NAME": "مرافقين لمفحطون",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 118,
+    "INCIDENT_MAIN_ID": 29,
+    "INCIDENT_SUB_NAME": "ألعاب نارية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 119,
+    "INCIDENT_MAIN_ID": 30,
+    "INCIDENT_SUB_NAME": "بلاغ عن سيارة مسروقة بالصدم من الخلف",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 120,
+    "INCIDENT_MAIN_ID": 30,
+    "INCIDENT_SUB_NAME": "بلاغ عن سيارة مسروقة تحت تهديد السلاح",
+    "IMPORTANCE": 10
+  },
+  {
+    "INCIDENT_SUB_ID": 121,
+    "INCIDENT_MAIN_ID": 30,
+    "INCIDENT_SUB_NAME": "بلاغ عن سيارة مسروقة في حالة وقوف",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 122,
+    "INCIDENT_MAIN_ID": 30,
+    "INCIDENT_SUB_NAME": "بلاغ عن سيارة مسروقة في حالة تشغيل",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 123,
+    "INCIDENT_MAIN_ID": 31,
+    "INCIDENT_SUB_NAME": "ضبط أشخاص بشعر منافي للآداب العامة (الكدش)",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 124,
+    "INCIDENT_MAIN_ID": 31,
+    "INCIDENT_SUB_NAME": "ضبط أشخاص يلبسون ملابس مخلة بالآداب",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 125,
+    "INCIDENT_MAIN_ID": 32,
+    "INCIDENT_SUB_NAME": "قضايا المسكرات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 126,
+    "INCIDENT_MAIN_ID": 32,
+    "INCIDENT_SUB_NAME": "أشخاص في حالة غير طبيعية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 127,
+    "INCIDENT_MAIN_ID": 32,
+    "INCIDENT_SUB_NAME": "معامل خمور",
+    "IMPORTANCE": 10
+  },
+  {
+    "INCIDENT_SUB_ID": 128,
+    "INCIDENT_MAIN_ID": 33,
+    "INCIDENT_SUB_NAME": "المخدرات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 250,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "إصابة رجل الدورية بسلاح ناري",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 251,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "إشهار سلاح ناري على رجل الدورية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 131,
+    "INCIDENT_MAIN_ID": 35,
+    "INCIDENT_SUB_NAME": "إختلاء محرم",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 132,
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_SUB_NAME": "محاولة اللواط",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 133,
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_SUB_NAME": "لواط",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 134,
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_SUB_NAME": "محاولة زنا",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 135,
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_SUB_NAME": "زنا",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 136,
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_SUB_NAME": "جنس ثالث",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 137,
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_SUB_NAME": "سحاق والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 138,
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_SUB_NAME": "محاولة الاختطاف",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 139,
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_SUB_NAME": "إختطاف",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 140,
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_SUB_NAME": "إغتصاب",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 141,
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_SUB_NAME": "ممارسة الفاحشة مع المحارم والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 142,
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_SUB_NAME": "فعل الفاحشة مع الحيوانات والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 143,
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_SUB_NAME": "تحرش جنسي",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 144,
+    "INCIDENT_MAIN_ID": 37,
+    "INCIDENT_SUB_NAME": "إنقاذ شخص أو أشخاص",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 145,
+    "INCIDENT_MAIN_ID": 37,
+    "INCIDENT_SUB_NAME": "مريض نفسي",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 146,
+    "INCIDENT_MAIN_ID": 37,
+    "INCIDENT_SUB_NAME": "إصابة داخل المنزل",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 147,
+    "INCIDENT_MAIN_ID": 37,
+    "INCIDENT_SUB_NAME": "إنهيار منزل",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 148,
+    "INCIDENT_MAIN_ID": 37,
+    "INCIDENT_SUB_NAME": "حوادث عرضية أخري",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 149,
+    "INCIDENT_MAIN_ID": 37,
+    "INCIDENT_SUB_NAME": "إحتجاز شخص",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 150,
+    "INCIDENT_MAIN_ID": 37,
+    "INCIDENT_SUB_NAME": "إصابة أثناء العمل",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 151,
+    "INCIDENT_MAIN_ID": 38,
+    "INCIDENT_SUB_NAME": "إرشاد تائه",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 152,
+    "INCIDENT_MAIN_ID": 38,
+    "INCIDENT_SUB_NAME": "تزويد سيارة بالوقود",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 153,
+    "INCIDENT_MAIN_ID": 38,
+    "INCIDENT_SUB_NAME": "مساعدة سيارة متعطلة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 154,
+    "INCIDENT_MAIN_ID": 38,
+    "INCIDENT_SUB_NAME": "إبعاد دواب عن الطريق",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 155,
+    "INCIDENT_MAIN_ID": 38,
+    "INCIDENT_SUB_NAME": "إبلاغ أسرة عن مصير أفرادها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 156,
+    "INCIDENT_MAIN_ID": 38,
+    "INCIDENT_SUB_NAME": "توصيل مريض للمستشفي",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 157,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "تجمع وإزعاج",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 158,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه بالدوران أمام المحلات التجارية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 159,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه تجول آخر الليل",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 160,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه سيارات نقل محملة بالأثاث",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 161,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه أو ضبط أجهزة راديو وتصنت",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 162,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إستخدام أشعة الليزر الضوئية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 163,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه في شخص علي دراجة نارية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 164,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه في شخص إحتمال يكون إرهابي",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 165,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه في أشخاص يقومون بتخزين الحديد",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 166,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه في أمراض",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 167,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه في أشخاص يستقلون سيارات وايتات وصهاريج",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 168,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه تجول حول المجمعات السكنية الأجنبية أو تصويرها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 169,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه تجول حول المنشآت الحكومية أو تصويرها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 170,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه في بلاغات التهديد بأعمال إرهابية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 171,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه في مواقع والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 172,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "شخص مجهول الهوية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 173,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه في أشخاص يقومون بالإفطار في نهار رمضان",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 174,
+    "INCIDENT_MAIN_ID": 40,
+    "INCIDENT_SUB_NAME": "رشوة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 175,
+    "INCIDENT_MAIN_ID": 40,
+    "INCIDENT_SUB_NAME": "تزوير أوراق رسمية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 176,
+    "INCIDENT_MAIN_ID": 40,
+    "INCIDENT_SUB_NAME": "تزوير رخصة قيادة أو سير",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 177,
+    "INCIDENT_MAIN_ID": 40,
+    "INCIDENT_SUB_NAME": "تزوير بطاقة أحوال",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 178,
+    "INCIDENT_MAIN_ID": 40,
+    "INCIDENT_SUB_NAME": "تزوير إقامة أو جواز سفر",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 179,
+    "INCIDENT_MAIN_ID": 40,
+    "INCIDENT_SUB_NAME": "تزوير أموال نقدية أو حيازتها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 180,
+    "INCIDENT_MAIN_ID": 41,
+    "INCIDENT_SUB_NAME": "بلاغ عن إمرأة تقود سيارة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 181,
+    "INCIDENT_MAIN_ID": 41,
+    "INCIDENT_SUB_NAME": "حوادث تصادم",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 182,
+    "INCIDENT_MAIN_ID": 41,
+    "INCIDENT_SUB_NAME": "حوادث الدهس",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 183,
+    "INCIDENT_MAIN_ID": 41,
+    "INCIDENT_SUB_NAME": "حوادث إنقلاب",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 184,
+    "INCIDENT_MAIN_ID": 41,
+    "INCIDENT_SUB_NAME": "مخالفة مرورية سلمت بتقرير",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 185,
+    "INCIDENT_MAIN_ID": 41,
+    "INCIDENT_SUB_NAME": "مخالفين للنقل المدرسي",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 186,
+    "INCIDENT_MAIN_ID": 41,
+    "INCIDENT_SUB_NAME": "سيارات مضبوطة مخالفة للتعليمات وتغير معالم السيارة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 187,
+    "INCIDENT_MAIN_ID": 41,
+    "INCIDENT_SUB_NAME": "ضبط سيارة مدنية تحمل سفتي بدون تصريح",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 188,
+    "INCIDENT_MAIN_ID": 41,
+    "INCIDENT_SUB_NAME": "سطحات مخالفة لنظام نقل السيارات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 189,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة جهات أخري",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 190,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة الطوارئ",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 191,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة الهلال الأحمر",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 192,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة مكافحة التسول",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 193,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة المرور",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 194,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة الدفاع المدني",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 195,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "قوات الامن الخاصة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 196,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة قوات أمن الطرق",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 197,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة الهيئة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 198,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة الأدلة الجنائية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 199,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة المخدرات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 200,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة مصلحة المياه",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 201,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة القوات والمهمات والواجبات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 202,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة الأمانة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 203,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة الجوازات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 204,
+    "INCIDENT_MAIN_ID": 42,
+    "INCIDENT_SUB_NAME": "مساندة أمن المتفجرات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 205,
+    "INCIDENT_MAIN_ID": 43,
+    "INCIDENT_SUB_NAME": "تبرع بالدم",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 206,
+    "INCIDENT_MAIN_ID": 44,
+    "INCIDENT_SUB_NAME": "سماع صوت إنفجار",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 207,
+    "INCIDENT_MAIN_ID": 44,
+    "INCIDENT_SUB_NAME": "تفجير",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 208,
+    "INCIDENT_MAIN_ID": 44,
+    "INCIDENT_SUB_NAME": "تهديد بالتفجير",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 209,
+    "INCIDENT_MAIN_ID": 44,
+    "INCIDENT_SUB_NAME": "إشتباه في أدوات تفجير",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 210,
+    "INCIDENT_MAIN_ID": 30,
+    "INCIDENT_SUB_NAME": "بلاغ عن سرقة سيارة رسمية أو حكومية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 252,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "إطلاق نار على رجل الدورية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 216,
+    "INCIDENT_MAIN_ID": 1,
+    "INCIDENT_SUB_NAME": "سيارة نقل اموال مسروقة تم ضبطها",
+    "IMPORTANCE": 6
+  },
+  {
+    "INCIDENT_SUB_ID": 217,
+    "INCIDENT_MAIN_ID": 9,
+    "INCIDENT_SUB_NAME": "سرقة اموال من سيارة نقل بنكية",
+    "IMPORTANCE": 10
+  },
+  {
+    "INCIDENT_SUB_ID": 218,
+    "INCIDENT_MAIN_ID": 30,
+    "INCIDENT_SUB_NAME": "بلاغ عن سرقة سيارة اموال",
+    "IMPORTANCE": 6
+  },
+  {
+    "INCIDENT_SUB_ID": 222,
+    "INCIDENT_MAIN_ID": 30,
+    "INCIDENT_SUB_NAME": "سرقة سيارة بالقوه والبلاغات عنها",
+    "IMPORTANCE": 2
+  },
+  {
+    "INCIDENT_SUB_ID": 247,
+    "INCIDENT_MAIN_ID": 7,
+    "INCIDENT_SUB_NAME": "وفيات مشتبه بها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 226,
+    "INCIDENT_MAIN_ID": 34,
+    "INCIDENT_SUB_NAME": "مظاهرات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 227,
+    "INCIDENT_MAIN_ID": 34,
+    "INCIDENT_SUB_NAME": "اعتصام",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 228,
+    "INCIDENT_MAIN_ID": 34,
+    "INCIDENT_SUB_NAME": "رفع لافتات مخالفة للانظمة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 229,
+    "INCIDENT_MAIN_ID": 34,
+    "INCIDENT_SUB_NAME": "رفع لافتات مناوئة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 242,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "رفع اعلام بعد المباريات والمناسبات",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 244,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "منشورات مخالفة للأنظمة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 211,
+    "INCIDENT_MAIN_ID": 17,
+    "INCIDENT_SUB_NAME": "ضبط سلاح أبيض",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 212,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة من منشأة حكومية والبلاغات عنها",
+    "IMPORTANCE": 10
+  },
+  {
+    "INCIDENT_SUB_ID": 213,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه في شخص",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 233,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "بلاغات معادية للدولة",
+    "IMPORTANCE": 10
+  },
+  {
+    "INCIDENT_SUB_ID": 240,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "ضبط اشخاص يمارسون لعب القمار",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 241,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "ضبط اشخاص بحوزتهم اوراق قمار",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 246,
+    "INCIDENT_MAIN_ID": 36,
+    "INCIDENT_SUB_NAME": "استدراج",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 214,
+    "INCIDENT_MAIN_ID": 45,
+    "INCIDENT_SUB_NAME": "انتحال شخصية رجال الامن",
+    "IMPORTANCE": 10
+  },
+  {
+    "INCIDENT_SUB_ID": 215,
+    "INCIDENT_MAIN_ID": 45,
+    "INCIDENT_SUB_NAME": "انتحال شخصية الاجهزة الخدمية والمدنية",
+    "IMPORTANCE": 10
+  },
+  {
+    "INCIDENT_SUB_ID": 230,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة من مسجد",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 231,
+    "INCIDENT_MAIN_ID": 10,
+    "INCIDENT_SUB_NAME": "تهديد عبر رسائل الجوال",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 232,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "كتابة علي الجدران",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 234,
+    "INCIDENT_MAIN_ID": 34,
+    "INCIDENT_SUB_NAME": "منشورات دعائية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 253,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة صراف آلي والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 254,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة من صراف آلي والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 255,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "تكسير صرافات آلية والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 256,
+    "INCIDENT_MAIN_ID": 34,
+    "INCIDENT_SUB_NAME": "سرقة مواشي والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 262,
+    "INCIDENT_MAIN_ID": 37,
+    "INCIDENT_SUB_NAME": "تقرير جنائي لم يسلم",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 265,
+    "INCIDENT_MAIN_ID": 26,
+    "INCIDENT_SUB_NAME": "متخلف قادم عن طريق الزيارة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 266,
+    "INCIDENT_MAIN_ID": 23,
+    "INCIDENT_SUB_NAME": "مقيم بدون إقامة نهائياً",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 267,
+    "INCIDENT_MAIN_ID": 23,
+    "INCIDENT_SUB_NAME": "مقيم بإقامة غير سارية المفعول",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 268,
+    "INCIDENT_MAIN_ID": 23,
+    "INCIDENT_SUB_NAME": "مقيم يحمل صورة إقامة فقط",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 269,
+    "INCIDENT_MAIN_ID": 23,
+    "INCIDENT_SUB_NAME": "مقيم يعمل لدى الغير لحسابه الخاص",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 270,
+    "INCIDENT_MAIN_ID": 23,
+    "INCIDENT_SUB_NAME": "مقيم متغيب عن العمل او هارب من كفيله",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 271,
+    "INCIDENT_MAIN_ID": 23,
+    "INCIDENT_SUB_NAME": "شخص ينقل مقيم متغيب عن العمل او هارب من كفيله",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 272,
+    "INCIDENT_MAIN_ID": 23,
+    "INCIDENT_SUB_NAME": "التستر على مقيم متغيب عن العمل او هارب من كفيله",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 273,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "شخص لا يحمل إثبات هوية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 275,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "هروب من فرقة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 276,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "إشتباه التجول علي قصور ملكية وتصويرها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 277,
+    "INCIDENT_MAIN_ID": 34,
+    "INCIDENT_SUB_NAME": "تكسير سيارت او كاميرات ساهر",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 278,
+    "INCIDENT_MAIN_ID": 34,
+    "INCIDENT_SUB_NAME": "ابتزاز",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 279,
+    "INCIDENT_MAIN_ID": 41,
+    "INCIDENT_SUB_NAME": "محادة على الطريق",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 235,
+    "INCIDENT_MAIN_ID": 34,
+    "INCIDENT_SUB_NAME": "منشورات عدائية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 257,
+    "INCIDENT_MAIN_ID": 37,
+    "INCIDENT_SUB_NAME": "بلاغ كاذب",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 258,
+    "INCIDENT_MAIN_ID": 5,
+    "INCIDENT_SUB_NAME": "سرقة من منشأت طبية والبلاغات عنها",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 259,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "شخص مخالف لنظام الإقامة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 260,
+    "INCIDENT_MAIN_ID": 19,
+    "INCIDENT_SUB_NAME": "شخص يستنجد",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 261,
+    "INCIDENT_MAIN_ID": 17,
+    "INCIDENT_SUB_NAME": "ضبط ظروف ذخيرة فارغة",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 263,
+    "INCIDENT_MAIN_ID": 45,
+    "INCIDENT_SUB_NAME": "انتحال شخصية إعتبارية",
+    "IMPORTANCE": 5
+  },
+  {
+    "INCIDENT_SUB_ID": 264,
+    "INCIDENT_MAIN_ID": 39,
+    "INCIDENT_SUB_NAME": "اشتباه في شخص عند البنوك أو الصرافات",
+    "IMPORTANCE": 10
+  },
+  {
+    "INCIDENT_SUB_ID": 274,
+    "INCIDENT_MAIN_ID": 34,
+    "INCIDENT_SUB_NAME": "تصوير المركبات الرسمية او رجال الأمن",
+    "IMPORTANCE": 10
+  }
+]

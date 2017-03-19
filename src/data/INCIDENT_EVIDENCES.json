@@ -1,0 +1,352 @@
+[
+  {
+    "REPORT_ID": 99910,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "مجهول",
+    "EVIDENCE": "عرق",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "في المقعد الامامي",
+    "SAVE_LOCATION": "للقسم",
+    "MEASURE_TYPE": "قاروره"
+  },
+  {
+    "REPORT_ID": 999,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "سيجارة حشيش",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "الجيب الايسر",
+    "SAVE_LOCATION": "وجدت في محفظته علما انه ارتكب الفرار",
+    "MEASURE_TYPE": "جرام"
+  },
+  {
+    "REPORT_ID": 99898,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "سكين",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "في مخباء بالباب",
+    "SAVE_LOCATION": "للقسم",
+    "MEASURE_TYPE": "سكين"
+  },
+  {
+    "REPORT_ID": 99886,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "اقامات",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "معه",
+    "SAVE_LOCATION": "للقسم",
+    "MEASURE_TYPE": "اقامة"
+  },
+  {
+    "REPORT_ID": 99877,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "رخصة قيادة أو سير",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "مع الشخص",
+    "SAVE_LOCATION": "للقسم",
+    "MEASURE_TYPE": "رخصه مزوره"
+  },
+  {
+    "REPORT_ID": 99877,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "رخصة قيادة أو سير",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "مع الشخص",
+    "SAVE_LOCATION": "للقسم",
+    "MEASURE_TYPE": "اقامه"
+  },
+  {
+    "REPORT_ID": 99877,
+    "PERSON_SERIAL": 2,
+    "PERSON_NAME": "",
+    "EVIDENCE": "رخصة قيادة أو سير",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "مع الشخص",
+    "SAVE_LOCATION": "للقسم",
+    "MEASURE_TYPE": "اقامه"
+  },
+  {
+    "REPORT_ID": 99877,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "عرق",
+    "QUANTITY": 2,
+    "HOLD_LOCATION": "الكبيره تحت المقعد الخلفي والصغيره تحت اقدام الراكب الخلفي",
+    "SAVE_LOCATION": "للقسم",
+    "MEASURE_TYPE": "قاروره كبيره بها نصف وصغيره بها نصف"
+  },
+  {
+    "REPORT_ID": 99876,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "اقامات",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "ابرزها للفرقة",
+    "SAVE_LOCATION": "للقسم",
+    "MEASURE_TYPE": "حبة"
+  },
+  {
+    "REPORT_ID": 99874,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "الجيب الايسر",
+    "SAVE_LOCATION": "سلم للقسم.",
+    "MEASURE_TYPE": "جوال نوكيا كشاف"
+  },
+  {
+    "REPORT_ID": 99874,
+    "PERSON_SERIAL": 2,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 2,
+    "HOLD_LOCATION": "الجيب الايسر",
+    "SAVE_LOCATION": "سلمت للقسم.",
+    "MEASURE_TYPE": "صراف الرياض"
+  },
+  {
+    "REPORT_ID": 9987,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "بندر نجر معلا المطيري",
+    "EVIDENCE": "عرق",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "رماه تحت السيارة",
+    "SAVE_LOCATION": "قارورة عرق حجم صغير ممتلئة",
+    "MEASURE_TYPE": "حبة"
+  },
+  {
+    "REPORT_ID": "",
+    "PERSON_SERIAL": "",
+    "PERSON_NAME": "",
+    "EVIDENCE": "",
+    "QUANTITY": "",
+    "HOLD_LOCATION": "",
+    "SAVE_LOCATION": "",
+    "MEASURE_TYPE": ""
+  },
+  {
+    "REPORT_ID": 99959,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 2,
+    "HOLD_LOCATION": "بالشنطه",
+    "SAVE_LOCATION": "القسم",
+    "MEASURE_TYPE": "كفرين بجنوطها"
+  },
+  {
+    "REPORT_ID": 99958,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "معة",
+    "SAVE_LOCATION": "للقسم",
+    "MEASURE_TYPE": "جوال"
+  },
+  {
+    "REPORT_ID": 99958,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "معه",
+    "SAVE_LOCATION": "للقسم",
+    "MEASURE_TYPE": "كاميره تصوير"
+  },
+  {
+    "REPORT_ID": 99957,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "معه",
+    "SAVE_LOCATION": "القسم",
+    "MEASURE_TYPE": "رداده"
+  },
+  {
+    "REPORT_ID": 99953,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "عرق",
+    "QUANTITY": 2,
+    "HOLD_LOCATION": "تحت مرتبة المرافق",
+    "SAVE_LOCATION": "للقسم",
+    "MEASURE_TYPE": "حبة"
+  },
+  {
+    "REPORT_ID": 99951,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 2,
+    "HOLD_LOCATION": "مع الشخص",
+    "SAVE_LOCATION": "يسلم للقسم",
+    "MEASURE_TYPE": "جوالين"
+  },
+  {
+    "REPORT_ID": 99951,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 2,
+    "HOLD_LOCATION": "مع الشخص",
+    "SAVE_LOCATION": "يسلم للقسم",
+    "MEASURE_TYPE": "جوال"
+  },
+  {
+    "REPORT_ID": 99951,
+    "PERSON_SERIAL": 2,
+    "PERSON_NAME": "",
+    "EVIDENCE": "عرق",
+    "QUANTITY": 2,
+    "HOLD_LOCATION": "بين مقعد الراكب والسائق",
+    "SAVE_LOCATION": "يسلم للقسم",
+    "MEASURE_TYPE": "حبة"
+  },
+  {
+    "REPORT_ID": 99951,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "عرق",
+    "QUANTITY": 2,
+    "HOLD_LOCATION": "على المرتبه الخلفية",
+    "SAVE_LOCATION": "يسلم للقسم",
+    "MEASURE_TYPE": "حبة"
+  },
+  {
+    "REPORT_ID": 99951,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "مع الشخص",
+    "SAVE_LOCATION": "يسلم للقسم",
+    "MEASURE_TYPE": "جوال"
+  },
+  {
+    "REPORT_ID": 99951,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "مع الشخص",
+    "SAVE_LOCATION": "يسلم للقسم",
+    "MEASURE_TYPE": "جوال ايفون"
+  },
+  {
+    "REPORT_ID": 99951,
+    "PERSON_SERIAL": 3,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "مع الشخص",
+    "SAVE_LOCATION": "يسلم للقسم",
+    "MEASURE_TYPE": "جوال أيفون"
+  },
+  {
+    "REPORT_ID": 99939,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "عرق",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "تحت مقعد الراكب",
+    "SAVE_LOCATION": "القسم",
+    "MEASURE_TYPE": "قاروره صغيره بها اقل من النص"
+  },
+  {
+    "REPORT_ID": 99935,
+    "PERSON_SERIAL": 2,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "معه",
+    "SAVE_LOCATION": "القسم",
+    "MEASURE_TYPE": "جوال"
+  },
+  {
+    "REPORT_ID": 99935,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "اموال",
+    "QUANTITY": 202,
+    "HOLD_LOCATION": "معه",
+    "SAVE_LOCATION": "القسم",
+    "MEASURE_TYPE": "ريال"
+  },
+  {
+    "REPORT_ID": 99928,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "تحت مقعد السائق",
+    "SAVE_LOCATION": "القسم",
+    "MEASURE_TYPE": "مسدس لعبه"
+  },
+  {
+    "REPORT_ID": 99925,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "اوراق رسمية",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "على الارض",
+    "SAVE_LOCATION": "للقسم",
+    "MEASURE_TYPE": "حبة"
+  },
+  {
+    "REPORT_ID": 99921,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "عرق",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "قام المرافق برميها مع النافذه",
+    "SAVE_LOCATION": "القسم",
+    "MEASURE_TYPE": "قاروره صغيره بها النص"
+  },
+  {
+    "REPORT_ID": 99916,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "فوق المرتبه الخلفيه",
+    "SAVE_LOCATION": "القسم",
+    "MEASURE_TYPE": "كرتون ألعاب ناريه ( طرطعان )"
+  },
+  {
+    "REPORT_ID": 99914,
+    "PERSON_SERIAL": 2,
+    "PERSON_NAME": "",
+    "EVIDENCE": "ذخيرة",
+    "QUANTITY": 12,
+    "HOLD_LOCATION": "بدرج السياره بجراب المسدس",
+    "SAVE_LOCATION": "القسم",
+    "MEASURE_TYPE": "طلقه حيه"
+  },
+  {
+    "REPORT_ID": 99914,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مسدس",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "بدرج السياره",
+    "SAVE_LOCATION": "القسم",
+    "MEASURE_TYPE": "مسدس"
+  },
+  {
+    "REPORT_ID": 99912,
+    "PERSON_SERIAL": 1,
+    "PERSON_NAME": "",
+    "EVIDENCE": "مضبوطات اخري",
+    "QUANTITY": 1,
+    "HOLD_LOCATION": "صورة اثبات معه",
+    "SAVE_LOCATION": "للقسم",
+    "MEASURE_TYPE": "حبة"
+  }
+]

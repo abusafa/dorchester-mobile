@@ -1,0 +1,134 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+      "type": "Feature",
+      "properties": {
+        "address": "2623 Dammam Branch Rd, Al Yarmuk Riyadh 13251 8017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.782188415527344,
+          24.81758840932394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "7071 Mahbub Ibn Jawhar, Dhahrat Al Badi'ah Riyadh 12982 2903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.63352966308594,
+          24.589900050435183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "7182 Ibn Majah, As Sulay Riyadh 14264 4942"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.835060119628906,
+          24.662618390788026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "7754 Salah Ad Din Al Ayyubi Rd, Ad Dhubbat Riyadh 12625 4569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.725540161132805,
+          24.680401411850305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2610 Yanbu, Dhahrat Laban Riyadh 13784 7187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5325927734375,
+          24.626420556698097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Ibn Hajar, Ad Dar Al Baida Riyadh 14518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.786651611328125,
+          24.56023880869554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "6833 At Tarfawi, Al Marqab Riyadh 12645 2417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.719017028808594,
+          24.637343422128406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "Nahdah Rd, Ar Rabwah Riyadh 12838"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.76021575927734,
+          24.675409942598453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "8062 Al Balqah, Al Aqiq Riyadh 13515 3893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6314697265625,
+          24.788293002185807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "6379 An Narjis Riyadh 13333 2975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.654815673828125,
+          24.84656534821976
+        ]
+      }
+    }
+  ]
+}
