@@ -13,15 +13,15 @@ import {
 import styled from 'styled-components/native';
 import Icon from 'react-native-vector-icons/Ionicons';
 import ScrollableTabView, {DefaultTabBar, } from 'react-native-scrollable-tab-view';
-
+import AboutUs from '../components/AboutUs';
 import DashboardCountryTabView from '../components/DashboardCountryTabView.js';
 import DashboardMainTabView from '../components/DashboardMainTabView.js';
 import DashboardPortsTabView from '../components/DashboardPortsTabView.js';
 import DashboardProductsTabView from '../components/DashboardProductsTabView.js';
-
+import PropertyMapTabView from '../components/PropertyMapTabView';
 import DashboardToolbar from '../components/DashboardToolbar.js';
 import DashboardSidebar from '../components/DashboardSidebar.js';
-
+import PropertyDataListTabView from '../components/PropertyDataListTabView';
 import { Container, Content } from 'native-base';
 import { Col, Row, Grid } from 'react-native-easy-grid';
 
@@ -38,9 +38,6 @@ const ContentSection = styled.View`
   padding: 20;
 
 `;
-
-
-
 
 
 
@@ -89,27 +86,27 @@ export default class DashboardScreen extends Component {
           <Col style={{backgroundColor:"#fff"}}>
             <Row style={{height:70 ,backgroundColor:"#EEFBFA"}}>
               <ContentSection >
-                <Text style={{fontFamily:'Cairo-Bold', textAlign:'right', fontSize:16, color:"#444"}}>المؤشرات الإحصائية للتجارة الخارجية</Text>
+                <Text style={{fontFamily:'Cairo-Bold', fontSize:16, color:"#444"}}>Dorchester Estates, GIS Prototype</Text>
               </ContentSection>
             </Row>
             <Row style={{margin:5}} >
                 <ScrollableTabView
                   tabBarTextStyle={{fontFamily:'cairo'}}
-                  initialPage={3}
+                  initialPage={0}
                     renderTabBar={() => <DefaultTabBar />}
                   >
-                    <View tabLabel='الدول' style={{flex:1}}>
-                      <DashboardCountryTabView />
-                    </View>
 
-                    <View tabLabel='المنتجات' style={{flex:1}}>
-                      <DashboardProductsTabView />
-                    </View>
-                    <View tabLabel='المنافذ' style={{flex:1}}>
-                      <DashboardPortsTabView />
-                    </View>
-                    <View tabLabel='الرئيسية' style={{flex:1}}>
+                    <View tabLabel='Main' style={{flex:1}}>
                       <DashboardMainTabView />
+                    </View>
+                    <View tabLabel='Map View' style={{flex:1}}>
+                      <PropertyMapTabView onMarkerPress={(feature)=> this.handleMarkerPress(feature)}/>
+                    </View>
+                    <View tabLabel='Data View' style={{flex:1}}>
+                      <PropertyDataListTabView onItemPress={(feature)=> this.handleItemPress(feature)}/>
+                    </View>
+                    <View tabLabel='About' style={{flex:1}}>
+                      <AboutUs />
                     </View>
                   </ScrollableTabView>
             </Row>
@@ -134,14 +131,30 @@ export default class DashboardScreen extends Component {
 
   handleShowWorldMapModal(){
     this.props.navigator.showModal({
-      title: "الخارطة الرقمية ",
+      title: "Map View",
       screen: "example.ModalMapScreen"
+    });
+  }
+
+  handleMarkerPress(feature){
+    this.props.navigator.showModal({
+      title: feature.name,
+      screen: "example.PropertyDetailsScreen",
+      passProps: feature
+    });
+  }
+
+  handleItemPress(feature){
+    this.props.navigator.showModal({
+      title: feature.name,
+      screen: "example.PropertyDetailsScreen",
+      passProps: feature
     });
   }
 
   handleShowMapModal(){
     this.props.navigator.showModal({
-      title: "الخارطة الرقمية ",
+      title: "Map View",
       screen: "example.MapScreen"
     });
   }
@@ -150,7 +163,7 @@ export default class DashboardScreen extends Component {
 
   handleShowDataModal(){
     this.props.navigator.showModal({
-      title: "البيانات",
+      title: "Data",
       screen: "example.ModalDataListScreen"
     });
   }

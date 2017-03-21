@@ -42,17 +42,11 @@ const seasons = [
 
 
 
-export default class ModalDataListScreen extends Component {
-  static navigatorButtons = {
-    leftButtons: [{
-      title: 'Close',
-      id: 'close'
-    }]
-  };
+export default class PropertyDataListTabView extends Component {
+
   constructor(props) {
     super(props);
     // if you want to listen on navigator events, set this up
-    this.props.navigator.setOnNavigatorEvent(this.onNavigatorEvent.bind(this));
     const db = filter(DB, (o)=>  o.property_for === 'Sale' && o.type === 'Residential-Projects' )
 
     this.state = {
@@ -152,18 +146,10 @@ export default class ModalDataListScreen extends Component {
   }
 
   handleRowPress(rowData){
-    this.props.navigator.showModal({
-      title: rowData.name,
-      screen: "example.PropertyDetailsScreen",
-      passProps: rowData
-    });
+    if(this.props.onItemPress) this.props.onItemPress(rowData);
   }
 
-  onNavigatorEvent(event) {
-    if (event.id == 'close') {
-      this.props.navigator.dismissModal();
-    }
-  }
+
 
 }
 

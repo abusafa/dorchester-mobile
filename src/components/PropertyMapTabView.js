@@ -1,29 +1,16 @@
-import React, {Component} from 'react';
-import {
-  Text,
-  View,
-  ScrollView,
-  TouchableOpacity,
-  Image,
-  StyleSheet,
-  Alert,
-  Platform,
-  Dimensions,
-  AsyncStorage,
-  Animated
-} from 'react-native';
-import {observer, Provider} from "mobx-react/native";
-import DB from '../data/DE.json';
+/* @flow */
 
-import {range} from 'lodash';
+import React, { Component } from 'react';
+import {
+  View,
+  Text,
+  StyleSheet,
+  Dimensions,
+  Animated,
+} from 'react-native';
 import MapView from 'react-native-maps';
 import AnimatedOutletMarker from '../components/AnimatedOutletMarker.js';
-
-import * as Animatable from 'react-native-animatable';
-// import stores
-
-import Icon from 'react-native-vector-icons/Ionicons';
-
+import DB from '../data/DE.json';
 
 const {width, height} = Dimensions.get('window');
 
@@ -40,15 +27,7 @@ const DEFAULT_PADDING = {
   left: 100
 };
 
-class MapScreen extends Component {
-
-
-  static navigatorButtons = {
-    leftButtons: [{
-      title: 'Close',
-      id: 'close'
-    }]
-  };
+export default class PropertyMapTabView extends Component {
 
 
   constructor(props) {
@@ -66,23 +45,11 @@ class MapScreen extends Component {
       }
     };
 
-
-    this.props.navigator.setOnNavigatorEvent(this.onNavigatorEvent.bind(this));
-
-
   }
 
-  componentWillMount(){
-
-  }
-
-  onNavigatorEvent(event) {
-    if (event.id == 'close') {
-      this.props.navigator.dismissModal();
-    }
-  }
 
   render() {
+
     const {
       toggled = false,
       region,
@@ -135,24 +102,16 @@ class MapScreen extends Component {
   }
 
   handleMarkerPress(e, feature){
-    this.props.navigator.showModal({
-      title: feature.name,
-      screen: "example.PropertyDetailsScreen",
-      passProps: feature
-    });
+    if(this.props.onMarkerPress) this.props.onMarkerPress(feature)
   }
 }
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'white'
   },
+  map:{
+    flex:1
 
-  map: {
-    ...StyleSheet.absoluteFillObject
-  },
-
+  }
 });
-
-export default MapScreen;

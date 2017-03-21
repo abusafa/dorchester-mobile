@@ -31,22 +31,22 @@ import Svg,{
 
 const data = [
   {
-    label:'معادن',
+    label:'Villa',
     value: 20,
     fill:"#3263E4"
   },
   {
-    label:'بيتروكيماويات',
+    label:'Apartment',
     value: 130,
     fill:"#D43D5D"
   },
   {
-    label:'أدوية',
+    label:'Residentia',
     value: 60,
     fill:"#3D9BD4"
   },
   {
-    label:'خشب',
+    label:'Building',
     value: 120,
     fill:"#FFC760"
   }

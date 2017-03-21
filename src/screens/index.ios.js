@@ -14,7 +14,7 @@ import ModalScreen from './ModalScreen';
 import ModalMapScreen from './ModalMapScreen';
 import ModalDataListScreen from './ModalDataListScreen';
 import YoutubeScreen from './YoutubeScreen';
-
+import PropertyDetailsScreen from './PropertyDetailsScreen';
 import DashboardScreen from './DashboardScreen';
 import NotificationScreen from './NotificationScreen';
 import LightBoxScreen from './LightBoxScreen';
@@ -31,6 +31,7 @@ export function registerScreens() {
   Navigation.registerComponent('example.ModalMapScreen', () => ModalMapScreen);
   Navigation.registerComponent('example.ModalDataListScreen', () => ModalDataListScreen);
   Navigation.registerComponent('example.YoutubeScreen', () => YoutubeScreen);
+  Navigation.registerComponent('example.PropertyDetailsScreen', () => PropertyDetailsScreen);
 
 
 

@@ -6,7 +6,7 @@ import {
   Text,
   StyleSheet,
 } from 'react-native';
-
+import SlideShow from '../components/SlideShow.js';
 import { Container, Content } from 'native-base';
 import styled from 'styled-components/native';
 import {Grid, Row, Col } from 'react-native-easy-grid';
@@ -26,7 +26,7 @@ align-items: center;
 const FooterText = styled.Text`
 color: #fff;
 font-family: cairo-bold;
-font-size: 14
+font-size: 11
 
 `;
 export default class DashboardMainTabView extends Component {
@@ -37,11 +37,9 @@ export default class DashboardMainTabView extends Component {
             <Grid>
               <Row>
                 <Col style={{ backgroundColor: '#fff', height: 300 }}>
-                  <TopCountryList />
+                  <SlideShow />
                 </Col>
-                <Col size={2} style={{ backgroundColor: '#00CE9F', height: 300  }}>
-                  <ThematicTradeMap />
-                </Col>
+
               </Row>
               <Row>
                 <Col style={{ backgroundColor: '#FB497C', height: 245, margin:5 }}>
@@ -55,7 +53,8 @@ export default class DashboardMainTabView extends Component {
               <Row>
                 <Col style={{ backgroundColor: '#325BAB', height: 70, margin:5 }}>
                   <FooterView>
-                    <FooterText>© جميع الحقوق محفوظة للمركز الوطني للإحصاء والمعلومات. (2016)، سلطنة عمان</FooterText>
+                    <FooterText>Dorchester Estates;
+An International Standard Bearer in Real Estate Investments, Development and Management</FooterText>
 
                   </FooterView>
                 </Col>

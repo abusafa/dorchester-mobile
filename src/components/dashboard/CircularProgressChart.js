@@ -41,7 +41,7 @@ export default class CircularProgressChart extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.headerTitle}>
-          المؤشرات
+          Sample Indicators
         </Text>
         <View style={styles.indecatorsWrapper}>
           {this.renderRows()}
@@ -86,7 +86,7 @@ const styles = StyleSheet.create({
   },
   headerTitle:{
     color:"#fff",
-    textAlign:"right",
+    textAlign:"left",
     fontFamily:"Cairo",
     fontSize:12,
 

@@ -15,12 +15,12 @@ export default class TextInOutChart extends Component {
         <Grid>
           <Col style={styles.center}>
             <Text style={[styles.number, styles.import]}>12%</Text>
-            <Text style={styles.text}>الصادرات</Text>
+            <Text style={styles.text}>Lease</Text>
             <Text style={[styles.text, styles.import]}>123,456,789</Text>
           </Col>
           <Col style={styles.center}>
             <Text style={[styles.number, styles.export]}>57%</Text>
-            <Text style={styles.text}>الواردات</Text>
+            <Text style={styles.text}>Sale</Text>
             <Text style={[styles.text, styles.export]}>405,456,789</Text>
 
           </Col>

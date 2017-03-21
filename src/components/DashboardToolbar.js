@@ -51,11 +51,7 @@ export default class DashboardToolbar extends Component {
             <Icon name="ios-list-box-outline" size={50} color="#fff" />
           </ToolbarItem>
         </TouchableOpacity>
-        <TouchableOpacity onPress={()=> this.handleShowWorldMapPress()} >
-          <ToolbarItem >
-            <Icon name="ios-map-outline" size={50} color="#fff" />
-          </ToolbarItem>
-        </TouchableOpacity>
+      
 
         <TouchableOpacity onPress={()=> this.handleShowMapPress()} >
           <ToolbarItem >

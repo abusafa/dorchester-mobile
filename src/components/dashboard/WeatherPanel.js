@@ -12,7 +12,7 @@ export default class WeatherPanel extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.text}>مسقط، عمان</Text>
+        <Text style={styles.text}>Jeddah, KSA</Text>
         <Image
           style={{width:70, height: 70}}
           source={require("../../../img/weather-icons-png/PartlyCloudyDay.png")}
